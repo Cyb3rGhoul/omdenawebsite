@@ -319,6 +319,8 @@ header .fa-times{
 
 .contact form input[type="submit"]{
     width: 20rem;
+    height: 4rem;
+    margin: 3rem 0;
 }
 
 .contact form input[type="submit"]:hover{
